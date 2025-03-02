@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-"![Image](https://github.com/user-attachments/assets/8d5ed765-1128-4e7b-9601-dc3df12b8024)"
+![Image](https://github.com/user-attachments/assets/8d5ed765-1128-4e7b-9601-dc3df12b8024)
 
   
   
